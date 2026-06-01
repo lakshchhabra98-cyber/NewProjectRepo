@@ -10,7 +10,9 @@ package com.mycompany.projectlaksh_june1;
  */
 public class ProjectLaksh_June1 {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+    double add(double a, double b){
+    
+            return a+b;
+        
     }
 }
